@@ -67,3 +67,6 @@ body {
     z-index: 1; /* Places the second image above the background */
 }
 
+.menu{
+    background-color: blanchedalmond;
+}
